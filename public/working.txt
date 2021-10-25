@@ -1,0 +1,26 @@
+client.on("message", async (message) => {
+  const args = message.content.trim().split(/ +/g);
+  const found = insults.find(element => element == args[0].toLowerCase());
+  if (message.content.toLowerCase().includes(found)) {
+    message.channel.send("Insulto Detectado");
+    console.log("Insulto detectado");
+  }
+});
+
+
+
+
+O
+
+
+
+
+client.on("message", async (message) => {
+  const args = message.content.trim().split(/ +/g); 
+  let argsjoin = args.find(element)
+  let found = insults.find(element => element == args[]);
+  if (message.content.toLowerCase().includes(found)) {
+    message.channel.send("Insulto Detectado");
+    console.log("Insulto detectado");
+  }
+});
