@@ -6,6 +6,9 @@
 <h1 align="center">insultjs</h1>
 <p align="center">Insultos para discord.js en Castellano || Marc Medrano</p>
 
+## Que es? 🔍
+Es un paquete para discord.js, el cual se encarga de revisar si los mensajes que manda la gente son insultos o no para conseguir servidores más limpios.
+
 
 ## Instalación 🔑
 ```
