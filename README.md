@@ -1,5 +1,3 @@
-# insultjs
-
 <p align="center">
    <img src="https://i.ibb.co/CHD6w8V/R6MGKHH.png" height='100px'/>  
 </p>
